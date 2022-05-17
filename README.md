@@ -1,0 +1,2 @@
+# RestaurantRecommender
+As a foodie I am always collecting new restaurants, cafes and bars to try! Having a database to collect these options that is also able to pick a spot for me based on the city I am going to, just makes sense! Looking forward to continue working on this program to soon be using more predictive analytics to be able to recommend the best place for me, based on many more criteria.
